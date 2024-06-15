@@ -1,1 +1,22 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    background-repeat: repeat;
+  }
+ .parent {
+      display: none;
+  }
+  head + body{
+      display:none;
+  }
+  *{
+    display: none;
+}
+div#wall #tag-3.slick {
+    display: none;
+}
+#wall #tag-2{
+    background-color: white;
+    background-repeat: repeat;
+    display: none;
+  
